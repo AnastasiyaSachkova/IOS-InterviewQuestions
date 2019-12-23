@@ -1,4 +1,3 @@
-<img src="https://github.com/sashakid/ios-guide/blob/master/Images/ios_guide_logo.png">
 
 * [Основные понятия программирования](Main/1_basics.md)
 * [Структуры данных](Main/2_data_structures.md)
@@ -21,3 +20,4 @@
 * [Общие вопросы](Main/19_general_questions.md)
 * [Задачи](Main/20_tasks.md)
 * [Неотвеченные вопросы](Main/21_to_do.md)
+* [Другие вопросы ](Main/ios-questions-interview.md)
